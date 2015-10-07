@@ -1,0 +1,15 @@
+{
+  "name": "Slack Resistance Bot",
+  "description": "Resistance Slack Bot",
+  "keywords": [
+    "slack",
+    "poker",
+    "bot"
+  ],
+  "repository": "https://github.com/nateschulte/resistanceslackbot",
+  "env": {
+    "SLACK_POKER_BOT_TOKEN": {
+      "description": "Your Slack bot integration token (obtainable at https://my.slack.com/services/new/bot)"
+    }
+  }
+}
